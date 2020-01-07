@@ -1,5 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [ipmctl\(1\)](ipmctl.md)
+* [index](README.md)
+* [index](untitled.md)
+
+## Debug
+
+* [ipmctl-delete-pcd\(1\)](debug/ipmctl-delete-pcd.md)
 
