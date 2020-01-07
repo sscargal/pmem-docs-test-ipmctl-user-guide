@@ -5,5 +5,5 @@
 
 ## Debug
 
-* [ipmctl-delete-pcd\(1\)](debug/untitled.md)
+* [ipmctl-delete-pcd\(1\)](debug/ipmctl-delete-pcd.md)
 
